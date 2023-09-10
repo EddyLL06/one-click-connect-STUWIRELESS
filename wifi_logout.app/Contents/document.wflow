@@ -59,7 +59,7 @@
 				<key>ActionParameters</key>
 				<dict>
 					<key>COMMAND_STRING</key>
-					<string>$HOME/.wifi_login/wifi_login &gt; /dev/null 2&gt;&amp;1 &amp;</string>
+					<string>$HOME/.wifi_login/wifi_logout &gt; /dev/null 2&gt;&amp;1 &amp;</string>
 					<key>CheckedForUserDefaultShell</key>
 					<true/>
 					<key>inputMethod</key>
@@ -84,7 +84,7 @@
 				<key>Class Name</key>
 				<string>RunShellScriptAction</string>
 				<key>InputUUID</key>
-				<string>31D56559-0B41-4B0B-9582-B665A87D21AE</string>
+				<string>725D816A-F2F1-4436-B648-3096B48DB263</string>
 				<key>Keywords</key>
 				<array>
 					<string>Shell</string>
@@ -94,9 +94,9 @@
 					<string>Unix</string>
 				</array>
 				<key>OutputUUID</key>
-				<string>5B308BAF-2186-4284-A2B6-C926C858F5CB</string>
+				<string>43D4207D-DEA6-4D24-9E23-FA0DEC5537F0</string>
 				<key>UUID</key>
-				<string>66763EC7-DD18-4B85-BB99-3FA6D9AE7783</string>
+				<string>C07718F7-1359-4D1E-9143-CAE15CB4AF11</string>
 				<key>UnlocalizedApplications</key>
 				<array>
 					<string>Automator</string>
@@ -185,7 +185,7 @@
 	<key>workflowMetaData</key>
 	<dict>
 		<key>workflowTypeIdentifier</key>
-		<string>com.apple.Automator.workflow</string>
+		<string>com.apple.Automator.application</string>
 	</dict>
 </dict>
 </plist>
