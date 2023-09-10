@@ -1,3 +1,7 @@
+# Written by Eddy Liu-Lin on 2023/9/10
+# For logging out of STUWIRELESS
+# Email: eddyll06@outlook.com
+
 import requests
 
 url1 = "http://sjauth.ykpaoschool.cn/ajaxlogout?"

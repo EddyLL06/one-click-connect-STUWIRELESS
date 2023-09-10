@@ -7,7 +7,7 @@
 
 # Modified by Eddy on 2023/9/10
 # To fit the need of using MacOS
-# And store the password securely using Keychain Access
+# Email: eddyll06@outlook.com
 
 import requests
 import keyring
