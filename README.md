@@ -2,7 +2,8 @@
 
 This repository contains scripts that help students at YK PAO to connect to STUWIRELESS faster in just one click.  
 So students don't have to repeat the login process mechanically everyday.  
-More detailed descriptions and instructions for setup will be updated soon...  
+
+## More detailed descriptions and instructions for setup will be updated soon...  
 
 # Ackownledgement
 
